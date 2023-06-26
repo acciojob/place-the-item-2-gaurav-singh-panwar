@@ -1,2 +1,12 @@
+.holder {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
-/* Your CSS Code here. */
+.item {
+  /* Add your desired styles for the items */
+  padding: 10px;
+  margin: 10px;
+  background-color: lightgray;
+}
